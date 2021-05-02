@@ -1,0 +1,6 @@
+D:\source\repos\GospelSub\GospelSub\bin\Debug\GospelSub.dll
+D:\source\repos\GospelSub\GospelSub\bin\Debug\GospelSub.pdb
+D:\source\repos\GospelSub\GospelSub\obj\Debug\GospelSub.csprojAssemblyReference.cache
+D:\source\repos\GospelSub\GospelSub\obj\Debug\GospelSub.csproj.CoreCompileInputs.cache
+D:\source\repos\GospelSub\GospelSub\obj\Debug\GospelSub.dll
+D:\source\repos\GospelSub\GospelSub\obj\Debug\GospelSub.pdb

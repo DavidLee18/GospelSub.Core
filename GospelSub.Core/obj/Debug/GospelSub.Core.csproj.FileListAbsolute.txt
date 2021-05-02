@@ -1,0 +1,5 @@
+D:\source\repos\GospelSub.Core\GospelSub.Core\bin\Debug\GospelSub.Core.dll
+D:\source\repos\GospelSub.Core\GospelSub.Core\bin\Debug\GospelSub.Core.pdb
+D:\source\repos\GospelSub.Core\GospelSub.Core\obj\Debug\GospelSub.Core.csproj.CoreCompileInputs.cache
+D:\source\repos\GospelSub.Core\GospelSub.Core\obj\Debug\GospelSub.Core.dll
+D:\source\repos\GospelSub.Core\GospelSub.Core\obj\Debug\GospelSub.Core.pdb
